@@ -1,0 +1,14 @@
+{
+  "name": "ai-research-code-radar-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for real-time arXiv research papers, GitHub open-source repositories, and Dev.to articles aggregation.",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "ai-research-code-radar-mcp": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  }
+}
